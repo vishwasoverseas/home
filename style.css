@@ -1,0 +1,95 @@
+body {
+    text-align: center;
+}
+
+#header {
+    position: fixed;
+    padding-top: 30px;
+    text-align: left;
+    padding-right: 200px;
+    padding-left: 100px;
+}
+
+img {
+    padding-top: 0px;
+    width: 200px;
+    height: 100px;
+}
+.y {
+    color: #FFBF00;
+    width: 900px;
+}
+.container {
+    text-align:center;
+    top: 100px;
+}
+i.fa {
+    font-family: "FontAwesome", 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+#home a {
+    color: #FFBF00;
+    font-weight: bold;
+}
+#brand{
+    text-align: center;
+    padding-left:  left: 200px;
+}
+#myNavbar {
+    background-color: #222222;
+}
+input {
+    background: #444444;
+}
+.my_nav_bar{
+    background: #444444;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    height: 100px;
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
+a {
+    text-decoration: none;
+}
+
+.link a {
+    color: #A9A9A9;
+    text-decoration: none;
+}
+
+.link {
+    font-weight: bold
+    display: inline;
+    float: center;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.link:hover a {
+    text-decoration-color: white;
+    color: white;
+    text-decoration: none;
+}
+#myCarousel {
+    background-color: #FFBF00;
+    margin-top: 150px;
+    margin-bottom: 0px;
+    margin-left: -200px;
+    margin-right: 0px;
+    height: 500px;
+    width: 1600px;
+}
+#selected{
+    color:#FFBF00;
+    font-weight: bolder;
+}
+.slides{
+    width:1000px;
+    height: 500;
+}
